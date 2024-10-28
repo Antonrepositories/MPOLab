@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Runner": {
+      "commandName": "Project",
+      "commandLineArgs": "10 10 0.3"
+    }
+  }
+}

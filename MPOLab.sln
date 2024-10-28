@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cells0", "MPOLab\Cells0.csproj", "{2A807D74-2403-43A4-BA8B-DD4C2B6EA4EB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cells1", "Cells1\Cells1.csproj", "{F48018DB-4D56-4599-A4BF-B50A62748A03}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cells2", "Runner\Cells2.csproj", "{309F41D5-7603-4FE5-BD32-429B3233EAF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A807D74-2403-43A4-BA8B-DD4C2B6EA4EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A807D74-2403-43A4-BA8B-DD4C2B6EA4EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A807D74-2403-43A4-BA8B-DD4C2B6EA4EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A807D74-2403-43A4-BA8B-DD4C2B6EA4EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F48018DB-4D56-4599-A4BF-B50A62748A03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F48018DB-4D56-4599-A4BF-B50A62748A03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F48018DB-4D56-4599-A4BF-B50A62748A03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F48018DB-4D56-4599-A4BF-B50A62748A03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{309F41D5-7603-4FE5-BD32-429B3233EAF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{309F41D5-7603-4FE5-BD32-429B3233EAF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{309F41D5-7603-4FE5-BD32-429B3233EAF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{309F41D5-7603-4FE5-BD32-429B3233EAF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {079749E5-055F-4733-8937-34974972821C}
+	EndGlobalSection
+EndGlobal
